@@ -1,0 +1,22 @@
+.inputButtons{
+    background-color:darkslategray;
+    color: white;
+}
+
+body{
+    background-color:grey
+
+}
+
+input[type=text]{
+    border-radius: 20px;
+    border:1px solid white;
+}
+
+#movieContainer {
+    display:none;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightgrey;
+    padding: 20px;
+  }
